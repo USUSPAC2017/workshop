@@ -1,0 +1,26 @@
+Tutorial Steps for USU SPAC GitHub workshop
+*************
+
+1. Create GitHub account
+2. Install git for windows
+3. Initialize local git repository
+4. Create a file
+5. Add file to staging area.
+6. Commit changes to the local repository.
+7. Push the repository to personal online repository on GitHub
+8. View changes on GitHub
+
+9. Join USUSPAC2017 organization on GitHub
+10. Pull from the USUSPAC2017 online repository
+11. Create a branch
+12. Checkout the new branch
+13. Push new branch
+13. Create a file
+14. Add file to staging area (on branch)
+15. Commit changes to branch of local repository
+16. Push the branch repository to the organization
+17. Checkout the master branch
+18. Pull the master (to remain updated)
+19. Merge the master with the new branch
+20. Delete the new branch
+21. View changes on GitHub
